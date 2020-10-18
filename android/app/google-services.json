@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "210138681069",
+    "firebase_url": "https://localgiver-4acc4.firebaseio.com",
+    "project_id": "localgiver-4acc4",
+    "storage_bucket": "localgiver-4acc4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210138681069:android:2f4b3d9735eeeb6050c6e4",
+        "android_client_info": {
+          "package_name": "dannykim.smartup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210138681069-tsm51s5elkoinfsg95t6paohnmq9e51g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8pzP7uyvG-C9lbiR72IZkoP1pGBcwN24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210138681069-tsm51s5elkoinfsg95t6paohnmq9e51g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
